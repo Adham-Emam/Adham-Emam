@@ -4,7 +4,7 @@ Hi 👋 My name is Adham Hossam
 Front-End Developer
 -------------------
 
-I've been learning to code since 1 year ,I start with HTML ,CSS & Javascript and I found a passion for frontend development
+I started learning Web Developing 2 years ago, Since then It became my passion to learn more and gain more experience, Each step I go further in my learning process I become much wise about what I'm doing, What I like about the web is that everything that you learn has meaning, can be implemented in your job and add up to your skills.
 
 * 🌍  I'm based in Egypt
 * ✉️  You can contact me at [adhamh372002@gmail.com](mailto:adhamh372002@gmail.com)
