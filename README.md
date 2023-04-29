@@ -4,7 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Front-End Developer
 -------------------
 
-I've been learning to code since 2 year ,I start with HTML & CSS and I found a passion for frontend development
+Hi there! I'm a front-end developer with over 2 years of experience in creating beautiful and functional web applications. My expertise lies in React.js and Tailwind CSS, two powerful technologies that allow me to create responsive and dynamic user interfaces.
+I'm passionate about creating intuitive and user-friendly designs that enhance the user experience. I take pride in my ability to turn complex ideas into simple and elegant solutions that meet the needs of my clients.
+In addition to my technical skills, I'm a strong communicator and collaborator. I believe that effective communication is key to delivering successful projects, and I work closely with my clients to ensure that their vision is realized.
+If you're looking for a front-end developer who can bring your ideas to life with React.js and Tailwind CSS, I'd love to hear from you. Let's work together to create something amazing!
 
 * 🌍  I'm based in Egypt
 * ✉️  You can contact me at [adhamh372002@gmail.com](mailto:adhamh372002@gmail.com)
