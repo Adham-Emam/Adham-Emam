@@ -1,36 +1,45 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Adham Hossam
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Adham Emam
 ====================================================================================================================================
 
 Full-Stack Developer
 -------------------
 
-Hi there! I'm a Full-Stack developer with over 3 years of experience in creating beautiful and functional web applications. My expertise lies in React.js and Tailwind CSS, two powerful technologies that allow me to create responsive and dynamic user interfaces.
-I'm passionate about creating intuitive and user-friendly designs that enhance the user experience. I take pride in my ability to turn complex ideas into simple and elegant solutions that meet the needs of my clients.
-In addition to my technical skills, I'm a strong communicator and collaborator. I believe that effective communication is key to delivering successful projects, and I work closely with my clients to ensure that their vision is realized.
-If you're looking for a front-end developer who can bring your ideas to life with React.js and Tailwind CSS, I'd love to hear from you. Let's work together to create something amazing!
-
 * 🌍  I'm based in Egypt
-* ✉️  You can contact me at [adhamh372002@gmail.com](mailto:adhamh372002@gmail.com)
-* 🧠  I'm learning React.js
+* 🧠  I'm learning Python
+
+🌟 About Me:
+I'm a passionate Full Stack Developer with Python and front-end technologies expertise. My journey in the tech world has equipped me with the skills to develop robust applications, solve complex problems, and collaborate on innovative projects.
+
+🖥️ Skills & Specialties:
+Python Development: Proficient in crafting scalable and efficient Python solutions.
+Front-end Technologies: Well-versed in HTML, CSS, and JavaScript, ensuring seamless user experiences.
+Web Development: Experienced in utilizing frameworks like Django and Flask for building dynamic web applications.
+
+🔍 Current Endeavors:
+I'm immersing myself in advanced data analysis techniques and methodologies. Keen to engage with professionals passionate about data-driven insights and innovative solutions. Let's connect and explore collaborative opportunities!
+
+📩 Let's Connect:
+I believe in the power of collaboration and continuous learning. Feel free to reach out if you'd like to discuss tech trends, and potential collaborations, or simply share insights, You can contact me at [adhamh372002@gmail.com](mailto:adhamh372002@gmail.com).
+
+
+
 
 ### Skills
 
-
 <p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
 <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/Python" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 <a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
-<a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
+
 
 
 ### Socials
