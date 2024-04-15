@@ -1,9 +1,5 @@
-# Hi 👋, I'm Adham Emam
-
-## 💫 About Me:
-### 🌍  I'm based in Egypt
-### 🧠  I'm learning Python, Django
-<br><br><br>I'm a passionate Full Stack Developer with Python and front-end technologies expertise. My journey in the tech world has equipped me with the skills to develop robust applications, solve complex problems, and collaborate on innovative projects.<br><br>🖥️ Skills & Specialties:<br>Python Development: Proficient in crafting scalable and efficient Python solutions.<br>Front-end Technologies: Well-versed in HTML, CSS, and JavaScript, ensuring seamless user experiences.<br>Web Development: Experienced in utilizing frameworks like Django and Flask for building dynamic web applications.<br><br>🔍 Current Endeavors:<br>I'm immersing myself in advanced data analysis techniques and methodologies. Keen to engage with professionals passionate about data-driven insights and innovative solutions. Let's connect and explore collaborative opportunities!<br><br>📩 Let's Connect:<br>I believe in the power of collaboration and continuous learning. Feel free to reach out if you'd like to discuss tech trends, and potential collaborations, or simply share insights, You can contact me at [adhamh372002@gmail.com](mailto:adhamh372002@gmail.com).<br>
+# 💫 About Me:
+🌍  I'm based in Egypt<br>🧠  I'm learning Python, Django<br><br><br>🌟 About Me:<br>I'm a passionate Full Stack Developer with Python and front-end technologies expertise. My journey in the tech world has equipped me with the skills to develop robust applications, solve complex problems, and collaborate on innovative projects.<br><br>🖥️ Skills & Specialties:<br>Python Development: Proficient in crafting scalable and efficient Python solutions.<br>Front-end Technologies: Well-versed in HTML, CSS, and JavaScript, ensuring seamless user experiences.<br>Web Development: Experienced in utilizing frameworks like Django and Flask for building dynamic web applications.<br><br>🔍 Current Endeavors:<br>I'm immersing myself in advanced data analysis techniques and methodologies. Keen to engage with professionals passionate about data-driven insights and innovative solutions. Let's connect and explore collaborative opportunities!<br><br>📩 Let's Connect:<br>I believe in the power of collaboration and continuous learning. Feel free to reach out if you'd like to discuss tech trends, and potential collaborations, or simply share insights, You can contact me at [adhamh372002@gmail.com](mailto:adhamh372002@gmail.com).<br>
 
 
 ## 🌐 Socials:
@@ -15,6 +11,9 @@
 ![](https://github-readme-stats.vercel.app/api?username=Adham-Emam&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Adham-Emam&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Adham-Emam&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Adham-Emam&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
