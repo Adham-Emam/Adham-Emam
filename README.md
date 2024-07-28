@@ -37,6 +37,8 @@
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 
+#  ![Uploading CodingGIF.gif…]() LeetCode Stats:
+[![Leetcode Stats](https://leetcard.jacoblin.cool/adhamhossam)](https://leetcode.com/adhamhossam)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Adham-Emam&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
@@ -44,11 +46,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Adham-Emam&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 [![](https://visitcount.itsvg.in/api?id=Adham-Emam&icon=5&color=2)](https://visitcount.itsvg.in)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-[![Leetcode Stats](https://leetcard.jacoblin.cool/adhamhossam)](https://leetcode.com/adhamhossam)
 
 ### Fun fact: I once answered the world’s oldest question with a single line of Python
 
@@ -58,5 +55,8 @@ print(sorted(["🥚", "🐣", "🐥", "🐔"]))
 
 >>> ["🐔", "🐣", "🐥", "🥚"];
 ```
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
