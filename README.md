@@ -37,8 +37,8 @@
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 
-# ![LeetCode](https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png") Stats:
-[![Leetcode Stats](https://leetcard.jacoblin.cool/adhamhossam)](https://leetcode.com/adhamhossam)
+# 🏆 LeetCode Stats:
+![LeetCode Stats](https://leetcard.jacoblin.cool/adhamhossam?theme=dark&font=Roboto%20Mono&ext=heatmap)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Adham-Emam&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
@@ -49,7 +49,7 @@
 
 ### Fun fact: I once answered the world’s oldest question with a single line of Python
 
-```Python
+``` Python
 # Which came first: the chicken or the egg?
 print(sorted(["🥚", "🐣", "🐥", "🐔"]))
 
