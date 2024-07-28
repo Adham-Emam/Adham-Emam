@@ -38,7 +38,7 @@
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 
 # 🏆 LeetCode Stats:
-![LeetCode Stats](https://leetcard.jacoblin.cool/adhamhossam?theme=dark&font=Roboto%20Mono&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/adhamhossam?theme=unicorn&font=Roboto%20Mono&ext=heatmap)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Adham-Emam&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
