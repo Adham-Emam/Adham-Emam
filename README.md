@@ -18,13 +18,13 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)](https://leetcode.com/adhamhossam)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/adhamhossam)](https://leetcode.com/adhamhossam)
 
 
 ###Fun fact: I once answered the world’s oldest question with a single line of Python
 
 ```Python
-// Which came first: the chicken or the egg?
+# Which came first: the chicken or the egg?
 print(sorted(["🥚", "🐣", "🐥", "🐔"]))
 
 >>> ["🐔", "🐣", "🐥", "🥚"];
