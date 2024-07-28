@@ -21,9 +21,14 @@
 [![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)](https://leetcode.com/adhamhossam)
 
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+###Fun fact: I once answered the world’s oldest question with a single line of Python
 
----
+```Python
+// Which came first: the chicken or the egg?
+print(sorted(["🥚", "🐣", "🐥", "🐔"]))
+
+>>> ["🐔", "🐣", "🐥", "🥚"];
+```
+
 [![](https://visitcount.itsvg.in/api?id=Adham-Emam&icon=5&color=2)](https://visitcount.itsvg.in)
 
