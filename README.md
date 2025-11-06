@@ -58,14 +58,6 @@
 
 [![](https://visitcount.itsvg.in/api?id=Adham-Emam&icon=5&color=2)](https://visitcount.itsvg.in)
 
-### Fun fact: I once answered the world’s oldest question with a single line of Python
-
-``` Python
-# Which came first: the chicken or the egg?
-print(sorted(["🥚", "🐣", "🐥", "🐔"]))
-
->>> ["🐔", "🐣", "🐥", "🥚"];
-```
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
